@@ -16,7 +16,6 @@
   ## Description
 
   - Nexa un **bot** de respuestas simple, y rapido de implementar.
-  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
   - Nexa, a simple response **bot**, quick to implement
 
