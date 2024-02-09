@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="img/Banner.jpg">
+  <img src="img/ChatBot.jpg">
 </div>
 
 
